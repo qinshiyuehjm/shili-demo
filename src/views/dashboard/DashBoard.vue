@@ -1,6 +1,6 @@
 <template>
     <div class="DashBoard">
-      总页面
+      总页面就是你了
     </div>
 </template>
 
